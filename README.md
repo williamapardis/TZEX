@@ -1,8 +1,8 @@
 # Twilight Zone Explorer - TZEx
 [TZEX](https://twilightzone.whoi.edu/twilight-zone-explorer-or-tzex/) is a autonomous oceanographic sediment trap designed by [Woods Hole Oceanographic Institution](whoi.edu) to integrate with [NKE Instruement's](https://nke-instrumentation.com/) profiling floats. This repository is dedicated to the custom embedded electronics developed for motor control and logic on the float. This solely consists of a single custom printed circuit board. 
 ## The Printed Circuit Board
-<p align="center">
-<table class="center">
+
+<table>
   <tr>
     <td>TOP</td>
      <td>BOTTOM</td>
@@ -24,5 +24,5 @@
     <td><img src="https://user-images.githubusercontent.com/57682790/220627501-8ed102e8-2bcd-423c-bb4b-e7406bc8b72b.png" width="425"></td>
   </tr>  
 </table>
-</p>
+
 
