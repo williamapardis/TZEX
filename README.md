@@ -8,9 +8,10 @@ Motor, feedback switch and it's Mechanical assembly was off the self order from 
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/57682790/220651513-f55e6991-5651-4584-b440-9077f18147f4.JPG" width="425"></td>
-    <td><img src="" width="425"></td>
+    <td><img src="https://user-images.githubusercontent.com/57682790/220654136-8625a438-9cae-4a8e-87e5-2d5e9ad361ed.jpeg" width="425"></td>
   </tr>
 </table>
+
 
 
 ## The Printed Circuit Board - 21-0001-01
