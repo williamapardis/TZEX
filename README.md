@@ -44,4 +44,5 @@ PCB design and layout was conducted in Circuit Studios.
   </tr>  
 </table>
 
+<img src="https://user-images.githubusercontent.com/57682790/220678418-14560e33-3b3d-488f-a446-04dcd65fe757.jpeg">
 
