@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=BR?-3
+Removed Pin From Net: NetName=VIN Pin=BR?-4
+Added Pin To Net: NetName=VIN Pin=BR?-3
+Added Pin To Net: NetName=GND Pin=BR?-4

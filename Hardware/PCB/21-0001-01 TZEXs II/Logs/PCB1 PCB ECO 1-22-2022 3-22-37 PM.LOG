@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetP?_6 Pin=P?-6
+Removed Pin From Net: NetName=NetP?_7 Pin=P?-7
+Change Component Footprint: Designator=P? Old Footprint=HDR1X3 New Footprint=1X3 MOLEX
+Change Component Footprint: Designator=P? Old Footprint=HDR1X4 New Footprint=1X4 RIGHT TH
+Change Component Footprint: Designator=P? Old Footprint=HDR2X4_CEN New Footprint=2X4 RIGHT
+Added Pin To Net: NetName=+3.3V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7

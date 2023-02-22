@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VREF Pin=U3-12
+Removed Pin From Net: NetName=VREF Pin=U3-13
+Added Component: Designator=R16(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Pin To Net: NetName=3.3V Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=VREF Pin=R18-1
+Added Pin To Net: NetName=VREF Pin=U2-3
+Added Pin To Net: NetName=3.3V Pin=U3-16
+Added Pin To Net: NetName=3.3V Pin=U3-17
+Added Pin To Net: NetName=NetR2_1 Pin=U3-27
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-1
+Added Pin To Net: NetName=NetR16_1 Pin=R18-2
+Added Pin To Net: NetName=NetR16_1 Pin=U3-12
+Added Pin To Net: NetName=NetR16_1 Pin=U3-13
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R18 Res3

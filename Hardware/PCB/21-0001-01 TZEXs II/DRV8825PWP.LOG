@@ -1,0 +1,35 @@
+Importer Log Report
+Project : 21-0001-01 TZEXs II.PrjPcb
+
+Section : Import Document - G:\My Drive\PCBs\21-0001-01 TZEXs II\import\DRV8825PWP.lia
+    Section : PCB Library - DRV8825PWP.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DRV8825PWP On Line 222
+            Warning - 1 : Skipping Token attachedSymbol On Line 769
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SOP65P640X120-29N][Primary] associated with PCAD Component [DRV8825PWP] has been renamed to PCB FootPrint [*SOP65P640X120-29N_DRV8825PWP(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - DRV8825PWP.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 175
+            Warning - 1 : Skipping Token layerContents On Line 180
+            Warning - 1 : Skipping Token layerContents On Line 188
+            Warning - 1 : Skipping Token layerContents On Line 196
+            Warning - 1 : Skipping Token layerContents On Line 202
+            Warning - 1 : Skipping Token layerContents On Line 211
+        EndSection
+
+        Section : Generating SCH Library - DRV8825PWP.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SOP65P640X120-29N][Primary] associated with PCAD Component [DRV8825PWP] has been renamed to PCB FootPrint [*SOP65P640X120-29N_DRV8825PWP(Primary)].
+        EndSection
+    EndSection
+EndSection

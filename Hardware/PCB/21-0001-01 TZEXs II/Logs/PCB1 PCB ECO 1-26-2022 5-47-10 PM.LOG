@@ -1,0 +1,10 @@
+Change Component Comment : Designator=J1 Old Comment=USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole  Check prices New Comment=USB-C 
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=NetD2_1 Pin=J1-A4_B9
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=NetD2_1 Pin=J1-B4_A9
+Added Pin To Net: NetName=NetJ1_S1 Pin=J1-S1
+Added Pin To Net: NetName=NetJ1_S1 Pin=J1-S2
+Added Pin To Net: NetName=NetJ1_S1 Pin=J1-S3
+Added Pin To Net: NetName=NetJ1_S1 Pin=J1-S4
+Added Net: Name=NetJ1_S1

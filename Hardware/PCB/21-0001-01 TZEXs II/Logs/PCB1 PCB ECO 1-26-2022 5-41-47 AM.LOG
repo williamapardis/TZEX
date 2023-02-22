@@ -1,0 +1,72 @@
+Added Component: Designator=C6(1608[0603])
+Added Component: Designator=C7(0402)
+Added Component: Designator=C8(0402)
+Added Component: Designator=D3(1608[0603])
+Added Component: Designator=D4(1608[0603])
+Added Component: Designator=D5(1608[0603])
+Added Component: Designator=J2(CONN_BM04B-SRSS-TB(LF)(SN))
+Added Component: Designator=J3(CONN_BM04B-SRSS-TB(LF)(SN))
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=C8-1
+Added Pin To Net: NetName=+3.3V Pin=D3-1
+Added Pin To Net: NetName=VIN Pin=D4-1
+Added Pin To Net: NetName=+3.3V Pin=D5-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+3.3V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+3.3V Pin=J3-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=EN_STEP Pin=U3-16
+Added Pin To Net: NetName=EN_STEP Pin=U3-17
+Added Net: Name=EN_STEP
+Added Pin To Net: NetName=MICROSWITCH Pin=P2-6
+Added Pin To Net: NetName=MICROSWITCH Pin=R12-2
+Added Pin To Net: NetName=MICROSWITCH Pin=U2-27
+Added Net: Name=MICROSWITCH
+Added Pin To Net: NetName=NetC4_1 Pin=C6-1
+Added Pin To Net: NetName=NetC4_1 Pin=U3-4
+Added Pin To Net: NetName=NetC4_1 Pin=U3-11
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U3-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R13-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R14-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R15-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=SCL Pin=J2-4
+Added Pin To Net: NetName=SCL Pin=J3-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J2-3
+Added Pin To Net: NetName=SDA Pin=J3-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VREF Pin=U3-12
+Added Pin To Net: NetName=VREF Pin=U3-13
+Added Net: Name=VREF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED3
+Added Member To Class: ClassName=Sheet1 Member=Component D4 LED3
+Added Member To Class: ClassName=Sheet1 Member=Component D5 LED3
+Added Member To Class: ClassName=Sheet1 Member=Component J2 BM04B Series 1 mm Pitch 4 Position SMT Single Row Top Entry Shrouded Header
+Added Member To Class: ClassName=Sheet1 Member=Component J3 BM04B Series 1 mm Pitch 4 Position SMT Single Row Top Entry Shrouded Header
+Added Member To Class: ClassName=Sheet1 Member=Component R13 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R14 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R15 Res3

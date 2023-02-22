@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=B1 Pin=P2-4
+Added Pin To Net: NetName=B1 Pin=U3-10
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=P2-3
+Added Pin To Net: NetName=B2 Pin=U3-8
+Added Net: Name=B2

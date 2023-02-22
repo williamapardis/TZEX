@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=M2 Pin=U2-12
+Added Pin To Net: NetName=STEP Pin=U2-12
+Added Pin To Net: NetName=STEP Pin=U3-22
+Added Net: Name=STEP

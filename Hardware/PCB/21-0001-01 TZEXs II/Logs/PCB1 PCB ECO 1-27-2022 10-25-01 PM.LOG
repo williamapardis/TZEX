@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3.3 Pin=P2-5
+Removed Pin From Net: NetName=MICROSWITCH Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P2-7
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 7 New DesignItemId=Header 4
+Change Component Footprint: Designator=P2 Old Footprint=1X7 RIGHT New Footprint=HDR1X4
+Change Component Comment : Designator=P2 Old Comment=Motor and Microswitch New Comment=Motor
+Added Component: Designator=P3(HDR1X3)
+Added Pin To Net: NetName=+3.3 Pin=P3-1
+Added Pin To Net: NetName=MICROSWITCH Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Change Net Name : Old Net Name=NetP2_1 New Net Name=A1
+Change Net Name : Old Net Name=NetP2_2 New Net Name=A2
+Added Member To Class: ClassName=Sheet1 Member=Component J2 BM04B Series 1 mm Pitch 4 Position SMT Single Row Top Entry Shrouded Header
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Microswitch

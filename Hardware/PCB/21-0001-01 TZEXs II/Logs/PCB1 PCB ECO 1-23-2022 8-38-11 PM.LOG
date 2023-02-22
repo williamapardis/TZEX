@@ -1,0 +1,71 @@
+Change Component Designator: OldDesignator=BR? NewDesignator=BR1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ1_A5
+Change Net Name : Old Net Name=NetJ?_B5 New Net Name=NetJ1_B5
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP3_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP?_4 New Net Name=NetP3_4
+Change Net Name : Old Net Name=NetP?_6 New Net Name=NetP4_6
+Change Net Name : Old Net Name=NetP?_7 New Net Name=NetP4_7
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_2
+Added Pin To Net: NetName=NetBR1_5 Pin=BR1-5
+Added Net: Name=NetBR1_5
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-18
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-6
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U3-9
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4X2A
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Micro-Switch
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Stepper Motor
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R10 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R11 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component U1 AP2112K-3.3TRG1
+Added Member To Class: ClassName=Sheet1 Member=Component U3 DRV8825PWP

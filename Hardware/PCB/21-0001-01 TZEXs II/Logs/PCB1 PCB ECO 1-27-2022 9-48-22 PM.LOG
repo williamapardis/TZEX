@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1_B12
+Removed Pin From Net: NetName=NetD2_1 Pin=J1-A4_B9
+Removed Pin From Net: NetName=GND Pin=J1-B1_A12
+Removed Pin From Net: NetName=NetD2_1 Pin=J1-B4_A9
+Removed Pin From Net: NetName=D+ Pin=J1-B6
+Removed Pin From Net: NetName=D- Pin=J1-B7
+Change Component DesignItemId : Designator=J1 Old DesignItemId=USB4105-GF-A New DesignItemId=USB4120-03-C_REVA
+Change Component Footprint: Designator=J1 Old Footprint=GCT_USB4105-GF-A New Footprint=GCT_USB4120-03-C_REVA
+Change Component Comment : Designator=J1 Old Comment=USB-C  New Comment=Check availability
+Added Component: Designator=J2(GCT_USB4105-GF-A)
+Added Pin To Net: NetName=D- Pin=J1-B6
+Added Pin To Net: NetName=D+ Pin=J1-B7
+Added Pin To Net: NetName=GND Pin=J2-A1_B12
+Added Pin To Net: NetName=D+ Pin=J2-A6
+Added Pin To Net: NetName=D- Pin=J2-A7
+Added Pin To Net: NetName=GND Pin=J2-B1_A12
+Added Pin To Net: NetName=D+ Pin=J2-B6
+Added Pin To Net: NetName=D- Pin=J2-B7
+Added Pin To Net: NetName=NetJ1_B8 Pin=J1-B8
+Added Pin To Net: NetName=NetJ1_B8 Pin=R5-2
+Added Net: Name=NetJ1_B8
+Added Pin To Net: NetName=NetJ2_A4_B9 Pin=J2-A4_B9
+Added Pin To Net: NetName=NetJ2_A4_B9 Pin=J2-B4_A9
+Added Net: Name=NetJ2_A4_B9
+Added Pin To Net: NetName=NetJ2_S1 Pin=J2-S1
+Added Pin To Net: NetName=NetJ2_S1 Pin=J2-S2
+Added Pin To Net: NetName=NetJ2_S1 Pin=J2-S3
+Added Pin To Net: NetName=NetJ2_S1 Pin=J2-S4
+Added Net: Name=NetJ2_S1

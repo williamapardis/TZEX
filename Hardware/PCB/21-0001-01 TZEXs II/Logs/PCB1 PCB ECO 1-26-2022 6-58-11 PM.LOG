@@ -1,0 +1,6 @@
+Added Component: Designator=P1(2X4 VERTICAL)
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=VIN Pin=P1-2
+Added Pin To Net: NetName=VIN Pin=P1-3
+Added Pin To Net: NetName=VIN Pin=P1-4
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4X2A

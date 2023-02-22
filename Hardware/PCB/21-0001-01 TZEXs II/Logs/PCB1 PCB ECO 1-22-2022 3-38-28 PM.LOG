@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3.3V Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-2
+Added Component: Designator=D?(SODFL3514X100N)
+Added Component: Designator=D?(SODFL3514X100N)
+Added Component: Designator=P?(J-Link)
+Added Pin To Net: NetName=+3.3V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Pin To Net: NetName=NetP?_7 Pin=P?-7
+Added Member To Class: ClassName=Sheet1 Member=Component D? Diode
