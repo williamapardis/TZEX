@@ -19,8 +19,9 @@ The custom printed circuit board of TZEX is a automoted stepper motor driver. It
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57682790/220635260-8ced4240-11c2-4f8e-bd2b-63e4a7c850b3.jpg">
 </p>
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/57682790/220678418-14560e33-3b3d-488f-a446-04dcd65fe757.jpeg">
+</p>
 
 PCB design and layout was conducted in Circuit Studios.
 <table>
