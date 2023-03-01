@@ -17,22 +17,10 @@ Motor, feedback switch and it's Mechanical assembly was off the self order from 
 ## The Printed Circuit Board - 21-0001-01
 The custom printed circuit board of TZEX is a automoted stepper motor driver. It interface with the NKE Float power trigger input (14.8Vdc), a [microswitch](Electrical/Datasheets/Subminiature_DB_Microswitch_Datasheet_US_24_10_17.pdf) input on the rotor of the motor and with the [Crouzet bi-polar stepper motor](Electrical/Datasheets/82929_Crouzet.pdf).
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/57682790/220635260-8ced4240-11c2-4f8e-bd2b-63e4a7c850b3.jpg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/57682790/220678418-14560e33-3b3d-488f-a446-04dcd65fe757.jpeg">
-
-<table>
-  <tr>
-    <td>TOP</td>
-     <td>BOTTOM</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220678418-14560e33-3b3d-488f-a446-04dcd65fe757.jpeg" width="425"></td>
-    <td><img src="https://user-images.githubusercontent.com/57682790/220635260-8ced4240-11c2-4f8e-bd2b-63e4a7c850b3.jpg" width="425"></td>
-  </tr>
-</table>
-
 
 PCB design and layout was conducted in Circuit Studios.
 <table>
